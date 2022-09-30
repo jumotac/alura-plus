@@ -1,10 +1,15 @@
-# Praticando HTML e CSS: ALURA PLUS :woman_technologist:
+| :placard: Vitrine.Dev |     |
+| ------------- | --- |
+| :sparkles: Nome | **Alura Plus** 
+| :label: Tecnologias | HTML, CSS 
+| :rocket: URL | https://jumotac.github.io/alura-plus/
+| :fire: Desafio | Praticar o HTML e CSS
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://raw.githubusercontent.com/jumotac/alura-plus/main/img/alura-plus.png#vitrinedev)
 
 
-
-#### :globe_with_meridians: [LINK PARA O PROJETO ORGINAL NO FIGMA](https://www.figma.com/file/tFDVyNuKhrT2G03k2dCstW/Alura-Plus---Layout?node-id=1%3A77) 
-
-
+# Praticando HTML e CSS: ALURA PLUS
 
 ## 01.Iniciando o projeto: :books:
 
@@ -53,7 +58,22 @@
 - Colocar o conhecimento em prática;
 - **Pseudo-classes** no CSS: hover e active.
 
+### :wrench:Ferramentas:
+
+Ferramentas utilizadas para auxiliar na execução do projeto:
+
+- **Visual Studio Code** - editor de código
+
+- **Github** - Para estruturar o portfólio 
+
+- **Figma** - Para ter acesso ao [PROJETO ORGINAL NO FIGMA](https://www.figma.com/file/tFDVyNuKhrT2G03k2dCstW/Alura-Plus---Layout?node-id=1%3A77) 
+
 ## AGRADECIMENTOS:
-  
-- Instrutora: **Mônica Mazzochi Hillman**
+
+Instrutora:
+- [Mônica Mazzochi Hillman](https://www.linkedin.com/in/monicamhillman/);
 - [Alura](www.alura.com.br)   
+
+
+ <p align="center">Desenvolvido 💗 por <a href="https://github.com/jumotac">Ju Mota</a></p>
+
